@@ -1,0 +1,6 @@
+print "what is your name?"
+input name
+if name = "frank" or "george"
+	print "greetings, " + name
+else
+	stop
